@@ -1,0 +1,26 @@
+[
+    {
+        "pregunta": "¿Cual de los siguientes es un metal?",
+        "respuestas": ["Sodio","Yodo","Flour","Bario"],
+        "resCorrecta":"Sodio",
+        "nivel":1
+    },
+    {
+        "pregunta": "¿Cuando una sustancia es homogénea?",
+        "respuestas": ["Cuando no tiene fases","Cuando no se diferencian las fases","Cuando se diferencian las fases","Ninguna de las anteriores"],
+        "resCorrecta":"Cuando no se diferencian las fases",
+        "nivel":2    
+    },
+    {
+        "pregunta": "¿En que tiempo a jere le salio 30mil pesos el registro?",
+        "respuestas": ["Le época de hierro","En el mio","Paleolítico","En su tiempo"],
+        "resCorrecta":"En su tiempo",
+         "nivel":3
+    },
+    {
+        "pregunta": "¿Como le gusta el café a roman?",
+        "respuestas": ["Salado","Dulce","Amargo","Cortado"],
+        "resCorrecta":"Salado",
+         "nivel":4     
+    }
+]
