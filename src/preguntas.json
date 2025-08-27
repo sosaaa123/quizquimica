@@ -1,26 +1,84 @@
 [
-    {
-        "pregunta": "¿Cual de los siguientes es un metal?",
-        "respuestas": ["Sodio","Yodo","Flour","Bario"],
-        "resCorrecta":"Sodio",
-        "nivel":1
-    },
-    {
-        "pregunta": "¿Cuando una sustancia es homogénea?",
-        "respuestas": ["Cuando no tiene fases","Cuando no se diferencian las fases","Cuando se diferencian las fases","Ninguna de las anteriores"],
-        "resCorrecta":"Cuando no se diferencian las fases",
-        "nivel":2    
-    },
-    {
-        "pregunta": "¿En que tiempo a jere le salio 30mil pesos el registro?",
-        "respuestas": ["Le época de hierro","En el mio","Paleolítico","En su tiempo"],
-        "resCorrecta":"En su tiempo",
-         "nivel":3
-    },
-    {
-        "pregunta": "¿Como le gusta el café a roman?",
-        "respuestas": ["Salado","Dulce","Amargo","Cortado"],
-        "resCorrecta":"Salado",
-         "nivel":4     
-    }
+  {
+    "pregunta": "El elemento más abundante en la corteza terrestre es:",
+    "respuestas": ["Oxigeno", "Hidrogeno", "Carbono", "Sodio"],
+    "resCorrecta": "Oxigeno",
+    "nivel": 1
+  },
+  {
+    "pregunta": "¿Cuál es la fórmula química del dióxido de carbono?",
+    "respuestas": ["CO", "C₂O", "O₂", "CO₂"],
+    "resCorrecta": "CO₂",
+    "nivel": 2
+  },
+  {
+    "pregunta": "El pH de una sustancia ácida es:",
+    "respuestas": ["Igual a 7", "Mayor a 7", "Entre 7 y 14", "Menor a 7"],
+    "resCorrecta": "Menor a 7",
+    "nivel": 3
+  },
+  {
+    "pregunta": "¿Cuál de estas es una mezcla homogénea?",
+    "respuestas": [
+      "Agua con aceite",
+      "Arena con hierro",
+      "Agua con sal",
+      "Aceite con vinagre"
+    ],
+    "resCorrecta": "Agua con sal",
+    "nivel": 4
+  },
+  {
+    "pregunta": "En la tabla periódica, los elementos del grupo 18 se llaman:",
+    "respuestas": [
+      "Halógenos",
+      "Gases nobles",
+      "Lantánidos",
+      "Metales alcalinos"
+    ],
+    "resCorrecta": "Gases nobles",
+    "nivel": 5
+  },
+  {
+    "pregunta": "Cuando una reacción química libera calor al medio, se dice que es:",
+    "respuestas": ["Isotérmica", "Exotérmica", "Neutra", "Endotérmica"],
+    "resCorrecta": "Exotérmica",
+    "nivel": 6
+  },
+  {
+    "pregunta": "En una reacción de combustión completa del metano (CH₄), los productos son:",
+    "respuestas": ["C y H₂", "CO₂ y H₂O", "CH₄ y O₂", "CO y H₂O"],
+    "resCorrecta": "CO₂ y H₂O",
+    "nivel": 7
+  },
+  {
+    "pregunta": "El agua hierve a:",
+    "respuestas": ["100 °C", "0 °C", "150 °C", "50 °C"],
+    "resCorrecta": "100 °C",
+    "nivel": 8
+  },
+  {
+    "pregunta": "El estado de la materia que tiene forma y volumen definidos es",
+    "respuestas": ["Líquido", "Sólido", "Plasma", "Gaseoso"],
+    "resCorrecta": "Sólido",
+    "nivel": 9
+  },
+  {
+    "pregunta": "¿Cuál es el símbolo químico del oxígeno?",
+    "respuestas": ["O", "N", "H", "C"],
+    "resCorrecta": "O",
+    "nivel": 10
+  },
+  {
+    "pregunta": "¿Cuál es la carga de un electrón?",
+    "respuestas": ["Negativa", "Positiva", "Depende del átomo", "Nula"],
+    "resCorrecta": "Negativa",
+    "nivel": 11
+  },
+  {
+    "pregunta": "¿Cuál de estas sustancias es un compuesto?",
+    "respuestas": ["Oro (Au)", "Agua (H₂O)", "Hierro (Fe)", "Oxígeno (O₂)"],
+    "resCorrecta": "Agua (H₂O)",
+    "nivel": 12
+  }
 ]
