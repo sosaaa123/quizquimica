@@ -83,12 +83,10 @@ function Quiz() {
           {respuestaCorrectas > respuestaIncorrectas ? (
             <>
               <ReactHowler src="/final2.wav" playing={true} volume={2.5} />
-              <h2 style={{ color: "green" }}>Ganaste</h2>
             </>
           ) : (
             <>
               <ReactHowler src="/perdiste.mp3" playing={true} volume={2.5} />
-              <h2 style={{ color: "red" }}>Perdiste</h2>
             </>
           )}
 
