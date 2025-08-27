@@ -25,7 +25,7 @@ function Quiz() {
     "#A9CC3B",
   ]
 
-  const click = new Howl({ src: ["click.wav"], volume: 2 })
+  const click = new Howl({ src: ["/click.wav"], volume: 2 })
 
   const handleClick = () => {
     click.play()
@@ -82,12 +82,12 @@ function Quiz() {
           <h1>¡Resultados!</h1>
           {respuestaCorrectas > respuestaIncorrectas ? (
             <>
-              <ReactHowler src="final2.wav" playing={true} volume={2.5} />
+              <ReactHowler src="/final2.wav" playing={true} volume={2.5} />
               <h2 style={{ color: "green" }}>Ganaste</h2>
             </>
           ) : (
             <>
-              <ReactHowler src="perdiste.mp3" playing={true} volume={2.5} />
+              <ReactHowler src="/perdiste.mp3" playing={true} volume={2.5} />
               <h2 style={{ color: "red" }}>Perdiste</h2>
             </>
           )}
